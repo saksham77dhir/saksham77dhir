@@ -36,16 +36,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+  
 
-- Jupyter Notebook  
-- Google Colab  
-- Gemini API  
-- LLMs  
 
-### 🤖 ML Concepts
-- Regression  
-- Classification  
-- Clustering  
-- Feature Engineering  
-- Model Evaluation  
-- Transformers  
