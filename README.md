@@ -10,7 +10,7 @@
 - Machine Learning Model Deployment
 - Deep Learning
 - MLOps
-- REST APIs & Scalable Systems
+- Fast APIs & Scalable Systems
 
 ---
 
