@@ -19,3 +19,9 @@
 - Open Source Contributions
 
 ---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,css,html,java,js,python,react,spring,bootstrap,mongodb,mysql,git,github,vercel,netlify,tensorflow" />
+</p>
