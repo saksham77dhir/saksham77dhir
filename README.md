@@ -41,21 +41,7 @@
 ## ⚙️ Frameworks & Libraries
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi"/>
-</p>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=langchain&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,transformers,langGraph"/>
 </p>
 
 ---
