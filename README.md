@@ -41,7 +41,21 @@
 ## ⚙️ Frameworks & Libraries
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,transformers,langGraph"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi"/>
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </p>
 
 ---
@@ -68,46 +82,6 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saksham77dhir&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham77dhir&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham77dhir&theme=tokyonight"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-- 🤖 Governed Multi-Agent AI System for Software Artifact Evaluation
-- 🎬 Movie Recommendation System
-- 📧 Spam Email Classifier
-- 📰 Fake News Detection
-- 🏠 House Price Prediction
-- 🩺 Diabetes Prediction System
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/saksham-dhir-a176572b6/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sakshamdhir7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
